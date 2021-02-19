@@ -1,0 +1,40 @@
+.maindata{
+    background-color: blueviolet;
+}
+.image{
+    height: 200px;
+    width: 150px;
+}
+.deleteBtn{
+    background-color: red;
+}
+
+.table,th,td{
+    background-color: white;
+    width: 700px;
+    border: 1px solid gray ;
+    border-collapse: collapse;
+  
+}
+
+.addStar{
+    background-color: rgb(42, 117, 187);
+    border-radius: 5px;
+    color: white;
+    padding:10px;
+    margin-top: 10px;
+}
+.sortByName{
+    background-color: gray;
+    border-radius: 5px;
+    color: white;
+    padding:10px;
+    margin-top: 10px;
+}
+.sortByPopularity{
+    background-color:  rgb(42, 117, 187);
+    border-radius: 5px;
+    color: white;
+    padding:10px;
+    margin-top: 10px;
+}
